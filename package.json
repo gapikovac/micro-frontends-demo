@@ -1,8 +1,8 @@
 {
-    "name": "@micro-frontends-demo/browse",
+    "name": "@micro-frontends-demo/demo",
     "version": "1.0.0",
     "description": "A micro frontend for browsing photos demos.",
-    "repository": "",
+    "repository": "git@github.com:gapikovac/micro-frontends-demo.git",
     "author": "Gnaba Ange Patrick",
     "license": "MIT",
     "scripts": {
